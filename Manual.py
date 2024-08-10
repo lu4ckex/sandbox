@@ -440,7 +440,6 @@
         • Valor: Uma das unidades básicas de dados, como um número ou string, que um programa manipula.
         • Variável: Um nome que se refere a um valor.
 """
-# Uso do 'Build in Fuction' int
     """
 prompt = 'Qual... a velocidade rasante de um andorinha livre?\n'
 velocidade = input(prompt)
@@ -448,20 +447,3 @@ int(velocidade)
 int(velocidade) + 5
 
 """
-
-# Pergunta & Resposta (Básico)
-
-    """
-    name = input ('name: ' )
-    print ('Olá, ' + name )
-    idade = input ('idade: ')
-    print ('Você tem' + idade + 'anos')
-
-    """
-
-# Uso básico da Function com uma String
-
-    """
-    print = ('Hello World')
-
-    """
